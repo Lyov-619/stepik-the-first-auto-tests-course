@@ -1,2 +1,1 @@
-# stepik-the-first-auto-tests-course
-homework for the Stepik course
+https://stepik.org/lesson/187065/step/7?unit=16197jjeffjne
